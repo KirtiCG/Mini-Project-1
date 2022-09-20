@@ -23,32 +23,41 @@ body{
     width: 200px;
     height: 200px;
     margin: 50px;
+    justify-content: center;
+    border-radius: 15px;
 }
 .two{
     width: 200px;
     height: 200px;
     margin: 50px;
+    justify-content: center;
+    border-radius: 15px;
 }
 .three{
     width:200px;
     height: 200px;
     margin: 50px;
+    justify-content: center;
+    border-radius: 15px;
 }
 .four{
     width: 200px;
     height: 200px;
     margin: 50px;
+    justify-content: center;
+    border-radius: 15px;
 }
 .five{
     width: 200px;
     height: 200px;
     margin: 50px;
+    justify-content: center;
+    border-radius: 15px;
 }
 .six{
     width: 1000px;
     height: 600px;
     margin: 50px;
-}
-.div{
     justify-content: center;
+    border-radius: 15px;
 }
