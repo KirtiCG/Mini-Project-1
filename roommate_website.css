@@ -19,6 +19,13 @@ body{
     font-size: x-large;
     text-shadow: 2ch;
 }
+p{
+    background-color: violet;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: left baseline;
+    padding: 15px;
+}
 .one{
     width: 200px;
     height: 200px;
