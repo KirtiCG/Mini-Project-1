@@ -18,5 +18,34 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
     text-shadow: 2ch;
-    text-color:violet;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.two{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.three{
+    width:200px;
+    height: 200px;
+    margin: 50px;
+}
+.four{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.five{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.six{
+    width: 1000px;
+    height: 600px;
+    margin: 50px;
 }
