@@ -49,3 +49,6 @@ body{
     height: 600px;
     margin: 50px;
 }
+.div{
+    justify-content: center;
+}
